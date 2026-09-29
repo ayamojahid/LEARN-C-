@@ -644,4 +644,4 @@ age = 24
 > **Une variable est une zone de mémoire identifiée par un nom, qui contient une valeur et dont la valeur peut changer pendant l'exécution du programme.**
 
 
-![Logo du projet](pics/dataTypes.png.png)
+![Logo du projet](dataTypes.png)
