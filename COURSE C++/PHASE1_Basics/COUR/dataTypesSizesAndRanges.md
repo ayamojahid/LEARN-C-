@@ -493,7 +493,14 @@ zéro + positif
 
 👉 **Unsigned = sans signe négatif → seulement 0 et positif.**
 
-![Logo du projet](dataTypeUgsigned4.png)
-![Logo du projet](dataTypeUgsigned1.png)
-![Logo du projet](dataTypeUgsigned2.png)
-![Logo du projet](dataTypeUgsigned3.png)
+
+![Logo du projet](pics/dataTypeUgsigned4.png)
+
+
+![Logo du projet](pics/dataTypeUgsigned1.png)
+
+
+![Logo du projet](pics/dataTypeUgsigned2.png)
+
+
+![Logo du projet](pics/dataTypeUgsigned3.png)

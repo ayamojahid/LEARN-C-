@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int day;
+
+    cout << "Enter a number from 1 to 3: ";
+    cin >> day;
+
+    switch (day)
+    {
+        case 1:
+            cout << "Monday";
+            break;
+
+        case 2:
+            cout << "Tuesday";
+            break;
+
+        case 3:
+            cout << "Wednesday";
+            break;
+
+        default:
+            cout << "Invalid day";
+    }
+
+    return 0;
+}
